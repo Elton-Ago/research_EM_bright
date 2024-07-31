@@ -10,19 +10,19 @@ Other packages used on the LIGO detection pipeline, but require either a lot of 
 
 An anaconda environment install with various necessary packages and their versions were used such as:
 
-ligo.em_bright==1.3.0 \t
-astropy==5.3.0
-bilby==2.2.0
-matplotlib==3.7.1
-numpy==1.26.4
-pandas==1.5.3
-scikit-learn==1.2.1
-scipy==1.10.1
-seaborn==0.12.2
-tables==3.7.0
-gps-time==2.8.8
-h5py==3.8.0
-ply==3.11
+- ligo.em_bright==1.3.0
+- astropy==5.3.0
+- bilby==2.2.0
+- matplotlib==3.7.1
+- numpy==1.26.4
+- pandas==1.5.3
+- scikit-learn==1.2.1
+- scipy==1.10.1
+- seaborn==0.12.2
+- tables==3.7.0
+- gps-time==2.8.8
+- h5py==3.8.0
+- ply==3.11
 
 ## Usage
 
@@ -36,8 +36,9 @@ We cannot be massively confident unless it confirms the model that what we have 
 
 ## Documentation EM_bright
 
-[EM_bright](https://pypi.org/project/ligo.em-bright/)
-[Examples](https://lscsoft.docs.ligo.org/p-astro/em_bright.html)
+- [EM_bright](https://pypi.org/project/ligo.em-bright/)
+  
+- [Examples](https://lscsoft.docs.ligo.org/p-astro/em_bright.html)
 
 ## Contributing
 
