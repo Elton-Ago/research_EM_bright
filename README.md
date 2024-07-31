@@ -10,7 +10,7 @@ Other packages used on the LIGO detection pipeline, but require either a lot of 
 
 An anaconda environment install with various necessary packages and their versions were used such as:
 
-ligo.em_bright==1.3.0
+ligo.em_bright==1.3.0 \t
 astropy==5.3.0
 bilby==2.2.0
 matplotlib==3.7.1
